@@ -138,7 +138,7 @@
         <td style="word-break: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse !important;vertical-align: top;width: 100%;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px" align="center">
             <div align="center">
 
-                <img class="center fullwidth" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block;border: 0;height: auto;line-height: 100%;margin: 0 auto;float: none;width: 100% !important;max-width: 900px" align="center" border="0" data-custom-width="900" src="/fotos/Orla Superior.png" alt="Image" title="Image">
+                <img class="center fullwidth" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block;border: 0;height: auto;line-height: 100%;margin: 0 auto;float: none;width: 100% !important;max-width: 900px" align="center" border="0" data-custom-width="900" src="http://www.citadirecta.com.ve/images/Orla%20Superior.png" alt="Image" title="Image">
             </div>
         </td>
     </tr>
